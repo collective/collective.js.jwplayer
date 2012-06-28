@@ -1,0 +1,6 @@
+<layers>
+<!-- uncomment to activate
+    <layer name="collective.js.jwplayer"
+           interface="collective.js.jwplayer.interfaces.ILayer" />
+-->
+</layers>

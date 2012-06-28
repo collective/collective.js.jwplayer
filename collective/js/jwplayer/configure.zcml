@@ -1,0 +1,22 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:browser="http://namespaces.zope.org/browser"
+    xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+    i18n_domain="collective.js.jwplayer">
+
+  <browser:resourceDirectory
+    name="collective.js.jwplayer"
+    directory="resources"
+    />
+
+  <include package=".upgrades"/>
+
+  <genericsetup:registerProfile
+      name="default"
+      title="collective.js.jwplayer"
+      directory="profiles/default"
+      description='Extension profile for collective.js.jwplayer.'
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      />
+
+</configure>
