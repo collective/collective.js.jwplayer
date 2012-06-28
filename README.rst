@@ -1,6 +1,13 @@
 Introduction
 ============
 
+This addon register JWPlayer into Plone resource registries.
 
+version: 5.10
+resource licence: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
 
-This product may contain traces of nuts.
+About JWPlayer
+==============
+
+The Web's most advanced Flash and HTML5 video player.
+
