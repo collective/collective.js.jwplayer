@@ -3,12 +3,12 @@
     i18n_domain="collective.jwplayer">
 
     <upgradeStep
-        source="1000"
+        source="*"
         destination="1001"
-        title="Upgrade"
+        title="Common upgrade"
         description=""
         profile="collective.js.jwplayer:default"
-        handler=".v1000_to_1001.upgrade_1000_to_1001"
+        handler=".upgrades.common"
         />
 
 </configure>
