@@ -3,7 +3,7 @@ Introduction
 
 This addon register JWPlayer_ into Plone resource registries.
 
-version: 5.10
+version: 6.4.3359
 resource licence: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
 
 About JWPlayer
@@ -37,6 +37,7 @@ Authors
 -------
 
 - JeanMichel FRANCOIS aka toutpt <toutpt@gmail.com>
+- Simone Orsi aka simahawk <simahawk@gmail.com>
 
 .. Contributors
 

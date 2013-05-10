@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '1.2.dev0'
+version = '6.4.3359'
 
 setup(name='collective.js.jwplayer',
       version=version,
