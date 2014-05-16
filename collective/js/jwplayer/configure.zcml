@@ -19,4 +19,12 @@
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
 
+  <genericsetup:registerProfile
+      name="uninstall"
+      title="uninstall collective.js.jwplayer"
+      directory="profiles/uninstall"
+      description='Uninstall profile for collective.js.jwplayer.'
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      />
+
 </configure>
